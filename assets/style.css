@@ -1,6 +1,6 @@
 /* GENERAL */
 
-[class^="container"] {
+[class^="container-fluid"] {
   background-color: #2C3E50;
   border: 1px solid black;
   min-height: 90px;
@@ -10,4 +10,20 @@
   background-color: red;
   border: 1px solid black;
   min-height: 90px;
+}
+
+/* MAIN */
+
+/* Jumbotron */
+
+.jumbotron {
+  height: 585px;
+  background-color: #1ABC9C;
+  margin-bottom: 80px;
+  padding: 20px;
+}
+
+.container-sm {
+  background-color: red;
+  height: 500px;
 }
