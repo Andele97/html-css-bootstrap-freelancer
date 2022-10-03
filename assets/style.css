@@ -38,6 +38,7 @@
 
 .cards .container-md{
   background-color: blue;
+  margin-bottom: 90px;
 }
 
 .sc-cards {
@@ -46,4 +47,13 @@
   border-radius: 10px;
   border: 1px solid;
   margin-top: 10px;
+}
+
+/* About */
+
+.about {
+  background-color: #1ABC9C;
+  height: 490px;
+  padding: 40px;
+  margin-bottom: 80px;
 }
