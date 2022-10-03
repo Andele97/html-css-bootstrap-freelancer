@@ -1,0 +1,13 @@
+/* GENERAL */
+
+[class^="container"] {
+  background-color: #2C3E50;
+  border: 1px solid black;
+  min-height: 90px;
+}
+
+[class^="col"] {
+  background-color: red;
+  border: 1px solid black;
+  min-height: 90px;
+}
