@@ -23,7 +23,27 @@
   padding: 20px;
 }
 
-.container-sm {
+.jumbotron .container-sm {
   background-color: red;
   height: 500px;
+}
+
+/* Cards */
+ .title {
+  background-color: yellow;
+  margin: 0 auto;
+  width: 600px;
+  height: 100px;
+ }
+
+.cards .container-md{
+  background-color: blue;
+}
+
+.sc-cards {
+  height: 260px;
+  background-color: red;
+  border-radius: 10px;
+  border: 1px solid;
+  margin-top: 10px;
 }
