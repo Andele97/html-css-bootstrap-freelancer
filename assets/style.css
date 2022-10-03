@@ -57,3 +57,21 @@
   padding: 40px;
   margin-bottom: 80px;
 }
+
+/* Contact */
+
+.contact {
+  margin-bottom: 80px;
+}
+
+/* FOOTER */
+
+.footer_top {
+  height: 230px;
+  background-color: #3A546D;
+}
+
+.footer_down {
+  height: 110px;
+  background-color: #2C3E50;
+}
