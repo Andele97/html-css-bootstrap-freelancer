@@ -59,7 +59,7 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   margin-bottom: 90px;
 }
 
-.sc-cards {
+.ap-cards {
   height: 260px;
   background-color: red;
   border-radius: 10px;
@@ -67,7 +67,7 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   margin-top: 10px;
 }
 
-.sc-cards img {
+.ap-cards img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -96,11 +96,23 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   border-right: 0;
 }
 
+::placeholder {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 /* FOOTER */
 
 .footer_top {
-  height: 230px;
+  padding: 100px;
   background-color: #3A546D;
+}
+
+.footer_top a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
 }
 
 .footer_down {
