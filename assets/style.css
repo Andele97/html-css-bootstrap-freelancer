@@ -6,14 +6,14 @@ header {
 }
 
 .line {
-  width: 20%;
+  width: 15%;
   height: 7px;
   background-color: white;
   border-radius: 10px;
 }
 
 .line_black {
-  width: 20%;
+  width: 15%;
   height: 7px;
   background-color: black;
   border-radius: 10px;
@@ -44,6 +44,14 @@ header .navbar .container-fluid .collapse .navbar-nav a {
 
 #cards .container-md{
   margin-bottom: 90px;
+}
+
+.ap-cards:hover img{
+    filter: brightness(70%);
+    cursor: pointer;
+}
+.ap-cards:hover i{
+    display: block;
 }
 
 .ap-cards {
