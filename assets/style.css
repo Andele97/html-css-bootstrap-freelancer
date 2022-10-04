@@ -10,6 +10,13 @@ header {
   height: 90px;
 }
 
+.line {
+  width: 20%;
+  height: 7px;
+  background-color: white;
+  border-radius: 10px;
+}
+
 /* HEADER */
 
 header .container .navbar-brand,
@@ -17,10 +24,12 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   color: white;
 }
 
-header .navbar .container-fluid .navbar-toggler .navbar-toggler-icon {
-  border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
-}
 /* MAIN */
+
+.jumbotron img {
+  width: 25%;
+  margin-bottom: 30px;
+}
 
 /* Jumbotron */
 
