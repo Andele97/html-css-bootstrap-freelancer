@@ -89,6 +89,13 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   margin-bottom: 80px;
 }
 
+.ap-form .form-control{
+  border-radius: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
 /* FOOTER */
 
 .footer_top {
