@@ -35,24 +35,18 @@ header .navbar .container-fluid .collapse .navbar-nav a {
 }
 
 .jumbotron {
-  height: 585px;
   background-color: #1ABC9C;
   margin-bottom: 80px;
-  padding: 20px;
+  padding: 40px;
 }
 
 /* Cards */
 
 #cards .container-md{
-  background-color: blue;
   margin-bottom: 90px;
 }
 
 .ap-cards {
-  height: 260px;
-  background-color: red;
-  border-radius: 10px;
-  border: 1px solid;
   margin-top: 10px;
 }
 
@@ -67,8 +61,7 @@ header .navbar .container-fluid .collapse .navbar-nav a {
 
 .about {
   background-color: #1ABC9C;
-  padding: 90px;
-  height: 490px;
+  padding: 150px;
   margin-bottom: 80px;
 }
 
