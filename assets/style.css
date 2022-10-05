@@ -50,9 +50,6 @@ header .navbar .container-fluid .collapse .navbar-nav a {
     filter: brightness(70%);
     cursor: pointer;
 }
-.ap-cards:hover i{
-    display: block;
-}
 
 .ap-cards {
   margin-top: 10px;
@@ -86,10 +83,10 @@ header .navbar .container-fluid .collapse .navbar-nav a {
   border-right: 0;
 }
 
-::placeholder {
+.form-control::placeholder {
   color: black;
   font-size: 20px;
-  font-weight: bold;
+  opacity: 1;
 }
 
 /* FOOTER */
